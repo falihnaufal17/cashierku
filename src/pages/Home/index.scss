@@ -1,0 +1,17 @@
+#Home{
+    margin: auto 150px;
+    margin-top: 121px;
+    transition: margin .3s ease-out;
+
+    .cart-section{
+        position: fixed;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: #FFF;
+        border: 1px solid #CECECE;
+        .cart-content{
+            margin-top: 121px;
+        }
+    }
+}

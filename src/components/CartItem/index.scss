@@ -1,0 +1,20 @@
+.cart-item{
+    margin-bottom: 43px;
+    img{
+        max-width: 100px;
+        border-radius: 5px;
+    }
+    .product-data{
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0em;
+    }
+    .price{
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: right;
+    }
+}
